@@ -1,13 +1,13 @@
 html {
-    background-color: #e0e7fb;
+    background-color:  #000010;
     font-family: serif, sans-serif, arial;
 }
 
 .header {
-    background-color: #FFFFFF;
+    background-color: whitesmoke;
     display: flex;
     flex-direction: row;
-    padding: 10px 2em;
+    padding: 25px 2em;
     align-items: center;
     justify-content: flex-start;
     gap: 3em;

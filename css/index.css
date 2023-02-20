@@ -1,13 +1,13 @@
 html {
-    background-color: #e0e7fb;
+    background-color: #000010;
     font-family: serif, sans-serif, arial;
 }
 
 .header {
-    background-color: #FFFFFF;
+    background-color: whitesmoke;
     display: flex;
     flex-direction: row;
-    padding: 10px 2em;
+    padding: 25px 2em;
     align-items: center;
     justify-content: flex-start;
     gap: 3em;
@@ -25,4 +25,23 @@ html {
 a {
     text-decoration: none;
     color: black;
+}
+
+img  {
+    width: 500px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    margin: 50px auto;
+    flex: 1 1 0;
+    opacity: 70%;
+}
+.big-name {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 110px;
+    font-weight: 800;
+    position: relative;
+    margin-top: -550px;
 }
